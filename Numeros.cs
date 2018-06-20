@@ -1,3 +1,13 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Text.RegularExpressions;
+
+
+namespace NumeroATexto01
+{
 class Numeros
     {
         private String[] UNIDADES = { "", "un ", "dos ", "tres ", "cuatro ", "cinco ", "seis ", "siete ", "ocho ", "nueve " };
@@ -162,3 +172,4 @@ class Numeros
             return n + getMiles(miles);
         }
     }
+}
