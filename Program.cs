@@ -17,7 +17,7 @@ namespace NumeroATexto01
             string num = Console.ReadLine();
             
             Numeros NumLetra = new Numeros();
-            //String numero = "15963.70";
+            //Mandar a imprimir el numero
             Console.WriteLine(NumLetra.Convertir(num, true));
             Console.ReadLine();
         }
