@@ -1,4 +1,4 @@
 # Convierte un numero a letras C#
-proyecto donde se pide un numero y el programa devolverá el nombre del numero en "letras" que el usuario ingreso
+project where a number is requested and the program returns the name of the number that the user entered
 
 [Visita Mi blog](http://codigoprogram.blogspot.com)
